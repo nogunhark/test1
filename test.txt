@@ -2,7 +2,7 @@ testestestes
 
 2015/7/20
 
-# Git Æ©Åä¸®¾ó
+# Git tutorial
 
  - gunhark-A
-
+ - gunhark-B
